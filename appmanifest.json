@@ -1,0 +1,16 @@
+{
+	"name": "Tackle Tanks",
+	"short_name": "Tackle Tanks",
+	"description": "Spawn in with one of the 15 different tanks and destory the enemy team in this action-packed team battle royale. Use the WASD or arrow keys to control the tank. Use Q and E to activate the different powerups.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/loading-logo.png",
+			"sizes": "258x258",
+			"type": "image/png"
+		}
+	]
+}
